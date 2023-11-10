@@ -1,0 +1,707 @@
+country,year,sex,age,suicides_no,population,suicide_rate,gdp_per_capita 
+Albania,2000,female,15-24 years,6,263900,2.27,1299
+Albania,2000,male,15-24 years,5,240000,2.08,1299
+Albania,2001,male,15-24 years,10,256039,3.91,1451
+Albania,2001,female,15-24 years,9,271359,3.32,1451
+Albania,2002,male,15-24 years,15,263067,5.7,1573
+Albania,2002,female,15-24 years,14,275970,5.07,1573
+Albania,2003,male,15-24 years,15,273235,5.49,2021
+Albania,2003,female,15-24 years,14,283709,4.93,2021
+Albania,2004,female,15-24 years,20,292268,6.84,2544
+Albania,2004,male,15-24 years,19,286768,6.63,2544
+Albania,2005,female,15-24 years,0,281922,0,2931
+Albania,2005,male,15-24 years,0,281675,0,2931
+Albania,2006,female,15-24 years,0,283138,0,3235
+Albania,2006,male,15-24 years,0,286679,0,3235
+Albania,2007,female,15-24 years,13,281080,4.63,3863
+Albania,2007,male,15-24 years,13,288349,4.51,3863
+Albania,2008,female,15-24 years,20,276073,7.24,4672
+Albania,2008,male,15-24 years,11,286702,3.84,4672
+Albania,2009,female,15-24 years,0,270003,0,4387
+Albania,2009,male,15-24 years,0,283448,0,4387
+Albania,2010,male,15-24 years,10,279508,3.58,4359
+Albania,2010,female,15-24 years,6,263581,2.28,4359
+Argentina,2000,male,15-24 years,463,3306109,14,8462
+Argentina,2000,female,15-24 years,116,3249247,3.57,8462
+Argentina,2001,male,15-24 years,518,3325440,15.58,7900
+Argentina,2001,female,15-24 years,166,3262682,5.09,7900
+Argentina,2002,male,15-24 years,542,3331708,16.27,2840
+Argentina,2002,female,15-24 years,158,3263542,4.84,2840
+Argentina,2003,male,15-24 years,638,3331226,19.15,3668
+Argentina,2003,female,15-24 years,179,3258029,5.49,3668
+Argentina,2004,male,15-24 years,653,3333328,19.59,4683
+Argentina,2004,female,15-24 years,159,3255244,4.88,4683
+Argentina,2005,male,15-24 years,638,3343414,19.08,5590
+Argentina,2005,female,15-24 years,148,3260468,4.54,5590
+Argentina,2006,male,15-24 years,656,3357424,19.54,6475
+Argentina,2006,female,15-24 years,175,3271703,5.35,6475
+Argentina,2007,male,15-24 years,577,3381171,17.07,7918
+Argentina,2007,female,15-24 years,146,3292790,4.43,7918
+Argentina,2008,male,15-24 years,625,3410092,18.33,9843
+Argentina,2008,female,15-24 years,180,3319037,5.42,9843
+Argentina,2009,male,15-24 years,609,3436265,17.72,8961
+Argentina,2009,female,15-24 years,164,3342385,4.91,8961
+Argentina,2010,male,15-24 years,683,3455127,19.77,11273
+Argentina,2010,female,15-24 years,150,3358103,4.47,11273
+Argentina,2011,male,15-24 years,693,3471151,19.96,13946
+Argentina,2011,female,15-24 years,172,3372659,5.1,13946
+Argentina,2012,male,15-24 years,745,3480902,21.4,14203
+Argentina,2012,female,15-24 years,204,3380770,6.03,14203
+Argentina,2013,male,15-24 years,696,3486661,19.96,14206
+Argentina,2013,female,15-24 years,167,3384642,4.93,14206
+Argentina,2014,male,15-24 years,738,3492454,21.13,13400
+Argentina,2014,female,15-24 years,204,3388324,6.02,13400
+Argentina,2015,male,15-24 years,656,3500580,18.74,14981
+Argentina,2015,female,15-24 years,153,3394201,4.51,14981
+Australia,2000,male,15-24 years,271,1333011,20.33,23219
+Australia,2000,female,15-24 years,78,1285283,6.07,23219
+Australia,2001,male,15-24 years,280,1351444,20.72,20860
+Australia,2001,female,15-24 years,63,1303713,4.83,20860
+Australia,2002,male,15-24 years,246,1372770,17.92,21474
+Australia,2002,female,15-24 years,58,1316527,4.41,21474
+Australia,2003,male,15-24 years,243,1394989,17.42,25059
+Australia,2003,female,15-24 years,48,1333189,3.6,25059
+Australia,2004,male,15-24 years,205,1420482,14.43,32454
+Australia,2004,female,15-24 years,67,1364452,4.91,32454
+Australia,2006,male,15-24 years,230,1446866,15.9,39014
+Australia,2006,female,15-24 years,68,1388615,4.9,39014
+Australia,2007,male,15-24 years,234,1515524,15.44,43171
+Australia,2007,female,15-24 years,66,1440419,4.58,43171
+Australia,2008,male,15-24 years,228,1560974,14.61,52315
+Australia,2008,female,15-24 years,60,1473105,4.07,52315
+Australia,2009,male,15-24 years,210,1605456,13.08,45128
+Australia,2009,female,15-24 years,66,1506719,4.38,45128
+Australia,2010,male,15-24 years,222,1618860,13.71,54887
+Australia,2010,female,15-24 years,80,1521652,5.26,54887
+Australia,2011,male,15-24 years,242,1570069,15.41,66770
+Australia,2011,female,15-24 years,93,1495053,6.22,66770
+Australia,2012,male,15-24 years,217,1579672,13.74,72669
+Australia,2012,female,15-24 years,109,1503934,7.25,72669
+Australia,2013,male,15-24 years,267,1591539,16.78,72856
+Australia,2013,female,15-24 years,95,1512779,6.28,72856
+Australia,2014,male,15-24 years,271,1604935,16.89,66809
+Australia,2014,female,15-24 years,96,1520955,6.31,66809
+Australia,2015,male,15-24 years,281,1608990,17.46,60656
+Australia,2015,female,15-24 years,110,1526305,7.21,60656
+Brazil,2000,male,15-24 years,1037,17494250,5.93,4156
+Brazil,2000,female,15-24 years,345,17175577,2.01,4156
+Brazil,2001,male,15-24 years,1262,17698960,7.13,3492
+Brazil,2001,female,15-24 years,393,17361833,2.26,3492
+Brazil,2002,male,15-24 years,1226,17863758,6.86,3121
+Brazil,2002,female,15-24 years,411,17507998,2.35,3121
+Brazil,2003,male,15-24 years,1259,17983317,7,3376
+Brazil,2003,female,15-24 years,413,17607810,2.35,3376
+Brazil,2004,male,15-24 years,1275,18054195,7.06,3984
+Brazil,2004,female,15-24 years,403,17657631,2.28,3984
+Brazil,2005,male,15-24 years,1247,18077858,6.9,5230
+Brazil,2005,female,15-24 years,405,17659079,2.29,5230
+Brazil,2006,male,15-24 years,1293,18063460,7.16,6403
+Brazil,2006,female,15-24 years,387,17631557,2.19,6403
+Brazil,2007,male,15-24 years,1267,17991928,7.04,7970
+Brazil,2007,female,15-24 years,379,17547530,2.16,7970
+Brazil,2008,male,15-24 years,1375,17889839,7.69,9555
+Brazil,2008,female,15-24 years,398,17432076,2.28,9555
+Brazil,2009,male,15-24 years,1270,17794434,7.14,9283
+Brazil,2009,female,15-24 years,343,17321655,1.98,9283
+Brazil,2010,male,15-24 years,1288,17726866,7.27,12161
+Brazil,2010,female,15-24 years,368,17237481,2.13,12161
+Brazil,2011,male,15-24 years,1335,17674787,7.55,14245
+Brazil,2011,female,15-24 years,413,17180849,2.4,14245
+Brazil,2012,male,15-24 years,1313,17644319,7.44,13283
+Brazil,2012,female,15-24 years,383,17145894,2.23,13283
+Brazil,2013,male,15-24 years,1317,17627508,7.47,13191
+Brazil,2013,female,15-24 years,362,17123318,2.11,13191
+Brazil,2014,male,15-24 years,1358,17606681,7.71,12975
+Brazil,2014,female,15-24 years,371,17094729,2.17,12975
+Brazil,2015,male,15-24 years,1389,17569045,7.91,9431
+Brazil,2015,female,15-24 years,397,17047218,2.33,9431
+Canada,2000,male,15-24 years,430,2131117,20.18,25589
+Canada,2000,female,15-24 years,112,2030972,5.51,25589
+Canada,2001,male,15-24 years,398,2168038,18.36,25165
+Canada,2001,female,15-24 years,105,2059190,5.1,25165
+Canada,2002,male,15-24 years,384,2192632,17.51,25570
+Canada,2002,female,15-24 years,108,2084984,5.18,25570
+Canada,2003,male,15-24 years,409,2211023,18.5,29787
+Canada,2003,female,15-24 years,113,2103731,5.37,29787
+Canada,2004,male,15-24 years,379,2230355,16.99,33787
+Canada,2004,female,15-24 years,101,2124167,4.75,33787
+Canada,2005,male,15-24 years,378,2249377,16.8,38218
+Canada,2005,female,15-24 years,131,2144094,6.11,38218
+Canada,2006,male,15-24 years,331,2288073,14.47,42566
+Canada,2006,female,15-24 years,86,2179623,3.95,42566
+Canada,2007,male,15-24 years,359,2318148,15.49,46890
+Canada,2007,female,15-24 years,116,2206555,5.26,46890
+Canada,2008,male,15-24 years,344,2341539,14.69,49041
+Canada,2008,female,15-24 years,119,2227003,5.34,49041
+Canada,2009,male,15-24 years,349,2355316,14.82,42933
+Canada,2009,female,15-24 years,130,2238546,5.81,42933
+Canada,2010,male,15-24 years,371,2357806,15.73,49974
+Canada,2010,female,15-24 years,115,2239759,5.13,49974
+Canada,2011,male,15-24 years,364,2356694,15.45,54841
+Canada,2011,female,15-24 years,135,2248192,6,54841
+Canada,2012,male,15-24 years,381,2358461,16.15,55347
+Canada,2012,female,15-24 years,137,2255895,6.07,55347
+Canada,2013,male,15-24 years,300,2362807,12.7,55310
+Canada,2013,female,15-24 years,138,2261173,6.1,55310
+Costa Rica,2000,male,15-24 years,53,366507,14.46,4233
+Costa Rica,2000,female,15-24 years,7,354767,1.97,4233
+Costa Rica,2001,male,15-24 years,32,376105,8.51,4412
+Costa Rica,2001,female,15-24 years,9,363807,2.47,4412
+Costa Rica,2002,male,15-24 years,58,384925,15.07,4485
+Costa Rica,2002,female,15-24 years,18,372135,4.84,4485
+Costa Rica,2003,male,15-24 years,62,392847,15.78,4583
+Costa Rica,2003,female,15-24 years,28,379600,7.38,4583
+Costa Rica,2004,male,15-24 years,68,399768,17.01,4850
+Costa Rica,2004,female,15-24 years,12,386068,3.11,4850
+Costa Rica,2005,male,15-24 years,44,405622,10.85,5133
+Costa Rica,2005,female,15-24 years,14,391463,3.58,5133
+Costa Rica,2006,male,15-24 years,63,410875,15.33,5716
+Costa Rica,2006,female,15-24 years,18,396374,4.54,5716
+Costa Rica,2007,male,15-24 years,46,414675,11.09,6661
+Costa Rica,2007,female,15-24 years,20,399875,5,6661
+Costa Rica,2008,male,15-24 years,52,417256,12.46,7517
+Costa Rica,2008,female,15-24 years,9,402172,2.24,7517
+Costa Rica,2009,male,15-24 years,51,418996,12.17,7403
+Costa Rica,2009,female,15-24 years,11,403629,2.73,7403
+Costa Rica,2010,male,15-24 years,40,420069,9.52,8906
+Costa Rica,2010,female,15-24 years,10,404425,2.47,8906
+Costa Rica,2011,male,15-24 years,52,419970,12.38,9978
+Costa Rica,2011,female,15-24 years,20,404197,4.95,9978
+Costa Rica,2012,male,15-24 years,58,419511,13.83,10832
+Costa Rica,2012,female,15-24 years,10,403604,2.48,10832
+Costa Rica,2013,male,15-24 years,48,418437,11.47,11443
+Costa Rica,2013,female,15-24 years,8,402392,1.99,11443
+Costa Rica,2014,male,15-24 years,43,416344,10.33,11485
+Costa Rica,2014,female,15-24 years,12,400170,3,11485
+Denmark,2000,male,15-24 years,39,310470,12.56,32841
+Denmark,2000,female,15-24 years,9,300690,2.99,32841
+Denmark,2001,male,15-24 years,38,304335,12.49,32837
+Denmark,2001,female,15-24 years,7,294773,2.37,32837
+Denmark,2002,male,15-24 years,40,302190,13.24,35435
+Denmark,2002,female,15-24 years,6,292727,2.05,35435
+Denmark,2003,male,15-24 years,24,300836,7.98,43129
+Denmark,2003,female,15-24 years,6,290582,2.06,43129
+Denmark,2004,male,15-24 years,33,301933,10.93,49552
+Denmark,2004,female,15-24 years,11,290626,3.78,49552
+Denmark,2005,male,15-24 years,21,305232,6.88,51960
+Denmark,2005,female,15-24 years,7,292929,2.39,51960
+Denmark,2006,male,15-24 years,24,312053,7.69,55354
+Denmark,2006,female,15-24 years,9,298500,3.02,55354
+Denmark,2007,male,15-24 years,15,320054,4.69,62229
+Denmark,2007,female,15-24 years,6,305722,1.96,62229
+Denmark,2008,male,15-24 years,30,330409,9.08,68447
+Denmark,2008,female,15-24 years,8,315514,2.54,68447
+Denmark,2009,male,15-24 years,24,340143,7.06,61863
+Denmark,2009,female,15-24 years,4,324876,1.23,61863
+Denmark,2010,male,15-24 years,17,349175,4.87,61711
+Denmark,2010,female,15-24 years,10,333696,3,61711
+Denmark,2011,male,15-24 years,26,356319,7.3,65598
+Denmark,2011,female,15-24 years,11,340056,3.23,65598
+Denmark,2012,male,15-24 years,33,362466,9.1,62071
+Denmark,2012,female,15-24 years,8,346154,2.31,62071
+Denmark,2013,male,15-24 years,23,367000,6.27,64831
+Denmark,2013,female,15-24 years,12,350607,3.42,64831
+Denmark,2014,male,15-24 years,31,370570,8.37,66114
+Denmark,2014,female,15-24 years,7,354099,1.98,66114
+Denmark,2015,male,15-24 years,18,374051,4.81,55972
+Denmark,2015,female,15-24 years,6,356882,1.68,55972
+Finland,2000,male,15-24 years,105,337152,31.14,25716
+Finland,2000,female,15-24 years,26,322489,8.06,25716
+Finland,2001,male,15-24 years,93,335676,27.71,26383
+Finland,2001,female,15-24 years,22,321239,6.85,26383
+Finland,2002,male,15-24 years,97,333547,29.08,28390
+Finland,2002,female,15-24 years,23,319060,7.21,28390
+Finland,2003,male,15-24 years,95,332460,28.57,34701
+Finland,2003,female,15-24 years,27,318049,8.49,34701
+Finland,2004,male,15-24 years,110,332773,33.06,39793
+Finland,2004,female,15-24 years,31,318275,9.74,39793
+Finland,2005,male,15-24 years,68,333948,20.36,41202
+Finland,2005,female,15-24 years,33,319226,10.34,41202
+Finland,2006,male,15-24 years,108,335416,32.2,43487
+Finland,2006,female,15-24 years,19,320699,5.92,43487
+Finland,2007,male,15-24 years,89,336401,26.46,51089
+Finland,2007,female,15-24 years,31,321868,9.63,51089
+Finland,2008,male,15-24 years,81,336624,24.06,56521
+Finland,2008,female,15-24 years,26,322278,8.07,56521
+Finland,2009,male,15-24 years,89,336510,26.45,49878
+Finland,2009,female,15-24 years,28,322353,8.69,49878
+Finland,2010,male,15-24 years,105,336807,31.18,48939
+Finland,2010,female,15-24 years,30,322681,9.3,48939
+Finland,2011,male,15-24 years,89,337265,26.39,53809
+Finland,2011,female,15-24 years,27,322992,8.36,53809
+Finland,2012,male,15-24 years,85,337342,25.2,50232
+Finland,2012,female,15-24 years,32,323218,9.9,50232
+Finland,2013,male,15-24 years,68,335688,20.26,52572
+Finland,2013,female,15-24 years,31,321757,9.63,52572
+Finland,2014,male,15-24 years,63,332717,18.94,52832
+Finland,2014,female,15-24 years,22,318826,6.9,52832
+Finland,2015,male,15-24 years,59,332082,17.77,44862
+Finland,2015,female,15-24 years,12,317937,3.77,44862
+France,2000,male,15-24 years,471,3885375,12.12,24648
+France,2000,female,15-24 years,137,3764091,3.64,24648
+France,2001,male,15-24 years,434,3908716,11.1,24796
+France,2001,female,15-24 years,135,3785067,3.57,24796
+France,2002,male,15-24 years,469,3945027,11.89,26714
+France,2002,female,15-24 years,120,3826195,3.14,26714
+France,2003,male,15-24 years,495,3973756,12.46,32656
+France,2003,female,15-24 years,141,3855507,3.66,32656
+France,2004,male,15-24 years,486,3997101,12.16,37240
+France,2004,female,15-24 years,135,3880131,3.48,37240
+France,2005,male,15-24 years,439,3992606,11,38420
+France,2005,female,15-24 years,128,3877610,3.3,38420
+France,2006,male,15-24 years,398,4014107,9.92,40097
+France,2006,female,15-24 years,124,3915675,3.17,40097
+France,2007,male,15-24 years,397,3998872,9.93,45682
+France,2007,female,15-24 years,114,3893480,2.93,45682
+France,2008,male,15-24 years,422,3971604,10.63,49901
+France,2008,female,15-24 years,108,3865331,2.79,49901
+France,2009,male,15-24 years,404,3953357,10.22,45775
+France,2009,female,15-24 years,122,3843704,3.17,45775
+France,2010,male,15-24 years,385,3937209,9.78,44747
+France,2010,female,15-24 years,117,3823806,3.06,44747
+France,2011,male,15-24 years,367,3914976,9.37,48217
+France,2011,female,15-24 years,124,3794959,3.27,48217
+France,2012,male,15-24 years,359,3900107,9.2,45002
+France,2012,female,15-24 years,106,3776265,2.81,45002
+France,2013,male,15-24 years,310,3849077,8.05,46922
+France,2013,female,15-24 years,116,3728182,3.11,46922
+France,2014,male,15-24 years,282,3841223,7.34,47318
+France,2014,female,15-24 years,92,3711936,2.48,47318
+Georgia,2000,male,15-24 years,8,346050,2.31,734
+Georgia,2000,female,15-24 years,0,345650,0,734
+Georgia,2001,male,15-24 years,8,343550,2.33,777
+Georgia,2001,female,15-24 years,0,343450,0,777
+Georgia,2004,male,15-24 years,13,349250,3.72,1253
+Georgia,2004,female,15-24 years,4,346000,1.16,1253
+Georgia,2005,male,15-24 years,5,358200,1.4,1552
+Georgia,2005,female,15-24 years,3,352750,0.85,1552
+Georgia,2006,male,15-24 years,7,366350,1.91,1859
+Georgia,2006,female,15-24 years,1,359100,0.28,1859
+Georgia,2007,male,15-24 years,7,367900,1.9,2448
+Georgia,2007,female,15-24 years,1,359400,0.28,2448
+Georgia,2009,male,15-24 years,20,360500,5.55,2589
+Georgia,2009,female,15-24 years,4,350000,1.14,2589
+Georgia,2010,male,15-24 years,11,351600,3.13,2775
+Georgia,2010,female,15-24 years,0,338800,0,2775
+Georgia,2011,male,15-24 years,12,348400,3.44,3435
+Georgia,2011,female,15-24 years,1,334600,0.3,3435
+Georgia,2012,male,15-24 years,11,337800,3.26,3772
+Georgia,2012,female,15-24 years,3,324000,0.93,3772
+Georgia,2013,male,15-24 years,13,325300,4,3850
+Georgia,2013,female,15-24 years,2,310500,0.64,3850
+Georgia,2014,male,15-24 years,12,264500,4.54,4757
+Georgia,2014,female,15-24 years,5,251400,1.99,4757
+Georgia,2015,male,15-24 years,17,247800,6.86,4046
+Georgia,2015,female,15-24 years,2,230200,0.87,4046
+Greece,2000,male,15-24 years,31,823264,3.77,12509
+Greece,2000,female,15-24 years,10,749307,1.33,12509
+Greece,2001,male,15-24 years,23,805944,2.85,13043
+Greece,2001,female,15-24 years,2,735081,0.27,13043
+Greece,2002,male,15-24 years,26,777333,3.34,14676
+Greece,2002,female,15-24 years,4,711776,0.56,14676
+Greece,2003,male,15-24 years,24,750890,3.2,19202
+Greece,2003,female,15-24 years,7,689624,1.02,19202
+Greece,2004,male,15-24 years,22,728622,3.02,22804
+Greece,2004,female,15-24 years,2,669838,0.3,22804
+Greece,2005,male,15-24 years,18,704916,2.55,23414
+Greece,2005,female,15-24 years,9,648391,1.39,23414
+Greece,2006,male,15-24 years,21,681537,3.08,25739
+Greece,2006,female,15-24 years,4,628484,0.64,25739
+Greece,2007,male,15-24 years,19,660913,2.87,29896
+Greece,2007,female,15-24 years,5,611207,0.82,29896
+Greece,2008,male,15-24 years,15,642167,2.34,33168
+Greece,2008,female,15-24 years,0,595248,0,33168
+Greece,2009,male,15-24 years,17,626013,2.72,30785
+Greece,2009,female,15-24 years,2,581847,0.34,30785
+Greece,2010,male,15-24 years,15,612178,2.45,27886
+Greece,2010,female,15-24 years,4,570284,0.7,27886
+Greece,2011,male,15-24 years,20,598754,3.34,26825
+Greece,2011,female,15-24 years,11,559712,1.97,26825
+Greece,2012,male,15-24 years,24,605261,3.97,23309
+Greece,2012,female,15-24 years,7,576914,1.21,23309
+Greece,2013,male,15-24 years,25,585990,4.27,22994
+Greece,2013,female,15-24 years,4,564219,0.71,22994
+Greece,2014,male,15-24 years,28,572505,4.89,22834
+Greece,2014,female,15-24 years,7,552323,1.27,22834
+Greece,2015,male,15-24 years,20,561302,3.56,18927
+Greece,2015,female,15-24 years,3,541528,0.55,18927
+Japan,2000,male,15-24 years,1273,8063415,15.79,40813
+Japan,2000,female,15-24 years,531,7669997,6.92,40813
+Japan,2001,male,15-24 years,1146,7856000,14.59,35843
+Japan,2001,female,15-24 years,522,7460000,7,35843
+Japan,2002,male,15-24 years,1131,7671000,14.74,34239
+Japan,2002,female,15-24 years,461,7274000,6.34,34239
+Japan,2003,male,15-24 years,1158,7483000,15.48,36926
+Japan,2003,female,15-24 years,556,7089000,7.84,36926
+Japan,2004,male,15-24 years,1233,7289000,16.92,39960
+Japan,2004,female,15-24 years,579,6905000,8.39,39960
+Japan,2005,male,15-24 years,1243,7043709,17.65,39412
+Japan,2005,female,15-24 years,643,6672938,9.64,39412
+Japan,2006,male,15-24 years,1257,6916000,18.18,37534
+Japan,2006,female,15-24 years,635,6548000,9.7,37534
+Japan,2007,male,15-24 years,1252,6795000,18.43,37408
+Japan,2007,female,15-24 years,596,6430000,9.27,37408
+Japan,2008,male,15-24 years,1343,6650000,20.2,41773
+Japan,2008,female,15-24 years,652,6293000,10.36,41773
+Japan,2009,male,15-24 years,1326,6514000,20.36,43415
+Japan,2009,female,15-24 years,605,6163000,9.82,43415
+Japan,2010,male,15-24 years,1315,6324856,20.79,47059
+Japan,2010,female,15-24 years,508,6008624,8.45,47059
+Japan,2011,male,15-24 years,1304,6246000,20.88,50919
+Japan,2011,female,15-24 years,616,5931000,10.39,50919
+Japan,2012,male,15-24 years,1294,6185000,20.92,51379
+Japan,2012,female,15-24 years,495,5873000,8.43,51379
+Japan,2013,male,15-24 years,1242,6143000,20.22,42781
+Japan,2013,female,15-24 years,467,5834000,8,42781
+Japan,2014,male,15-24 years,1180,6110000,19.31,40328
+Japan,2014,female,15-24 years,432,5803000,7.44,40328
+Japan,2015,male,15-24 years,1091,6088330,17.92,36510
+Japan,2015,female,15-24 years,408,5772938,7.07,36510
+Latvia,2000,male,15-24 years,53,173170,30.61,3494
+Latvia,2000,female,15-24 years,8,166955,4.79,3494
+Latvia,2001,male,15-24 years,44,173897,25.3,3724
+Latvia,2001,female,15-24 years,6,167768,3.58,3724
+Latvia,2002,male,15-24 years,53,175356,30.22,4311
+Latvia,2002,female,15-24 years,7,169582,4.13,4311
+Latvia,2003,male,15-24 years,44,177321,24.81,5364
+Latvia,2003,female,15-24 years,9,171186,5.26,5364
+Latvia,2004,male,15-24 years,40,178336,22.43,6644
+Latvia,2004,female,15-24 years,7,171538,4.08,6644
+Latvia,2005,male,15-24 years,45,178042,25.27,7916
+Latvia,2005,female,15-24 years,6,170913,3.51,7916
+Latvia,2006,male,15-24 years,49,176712,27.73,10139
+Latvia,2006,female,15-24 years,1,169332,0.59,10139
+Latvia,2007,male,15-24 years,32,174288,18.36,14758
+Latvia,2007,female,15-24 years,6,166758,3.6,14758
+Latvia,2008,male,15-24 years,39,168486,23.15,17217
+Latvia,2008,female,15-24 years,7,161440,4.34,17217
+Latvia,2009,male,15-24 years,38,158564,23.97,12890
+Latvia,2009,female,15-24 years,3,152210,1.97,12890
+Latvia,2010,male,15-24 years,34,147429,23.06,11951
+Latvia,2010,female,15-24 years,4,141468,2.83,11951
+Latvia,2011,male,15-24 years,38,137623,27.61,14447
+Latvia,2011,female,15-24 years,5,131378,3.81,14447
+Latvia,2012,male,15-24 years,34,129182,26.32,14558
+Latvia,2012,female,15-24 years,6,122407,4.9,14558
+Latvia,2013,male,15-24 years,17,120698,14.08,15820
+Latvia,2013,female,15-24 years,2,113955,1.76,15820
+Latvia,2014,male,15-24 years,31,112758,27.49,16544
+Latvia,2014,female,15-24 years,6,106420,5.64,16544
+Latvia,2015,male,15-24 years,24,105890,22.67,14382
+Latvia,2015,female,15-24 years,3,100065,3,14382
+Maldives,2000,female,15-24 years,0,30505,0,2524
+Maldives,2000,male,15-24 years,0,30141,0,2524
+Maldives,2001,male,15-24 years,1,33293,3,3406
+Maldives,2001,female,15-24 years,0,32184,0,3406
+Maldives,2002,female,15-24 years,1,33844,2.95,3401
+Maldives,2002,male,15-24 years,1,36435,2.74,3401
+Maldives,2003,female,15-24 years,0,35389,0,3867
+Maldives,2003,male,15-24 years,0,39360,0,3867
+Maldives,2004,female,15-24 years,0,36682,0,4373
+Maldives,2004,male,15-24 years,0,41834,0,4373
+Maldives,2005,female,15-24 years,0,37646,0,4026
+Maldives,2005,male,15-24 years,0,43696,0,4026
+Maldives,2007,female,15-24 years,1,39138,2.56,6115
+Maldives,2007,male,15-24 years,1,48015,2.08,6115
+Maldives,2008,female,15-24 years,0,39416,0,7236
+Maldives,2008,male,15-24 years,0,49380,0,7236
+Maldives,2010,male,15-24 years,1,50279,1.99,7806
+Maldives,2010,female,15-24 years,0,39026,0,7806
+Maldives,2011,female,15-24 years,0,38483,0,8135
+Maldives,2011,male,15-24 years,0,50597,0,8135
+Malta,2000,male,15-24 years,1,30093,3.32,11873
+Malta,2000,female,15-24 years,0,28328,0,11873
+Malta,2001,male,15-24 years,4,30318,13.19,11691
+Malta,2001,female,15-24 years,1,28539,3.5,11691
+Malta,2002,female,15-24 years,0,28419,0,12524
+Malta,2002,male,15-24 years,0,30264,0,12524
+Malta,2003,male,15-24 years,1,30207,3.31,14444
+Malta,2003,female,15-24 years,0,28425,0,14444
+Malta,2004,female,15-24 years,2,28457,7.03,15916
+Malta,2004,male,15-24 years,2,30133,6.64,15916
+Malta,2005,female,15-24 years,0,28404,0,16648
+Malta,2005,male,15-24 years,0,29930,0,16648
+Malta,2006,male,15-24 years,3,29634,10.12,17504
+Malta,2006,female,15-24 years,0,28188,0,17504
+Malta,2007,male,15-24 years,2,29328,6.82,20333
+Malta,2007,female,15-24 years,0,27895,0,20333
+Malta,2008,male,15-24 years,1,29288,3.41,23007
+Malta,2008,female,15-24 years,0,27700,0,23007
+Malta,2009,male,15-24 years,3,29462,10.18,21695
+Malta,2009,female,15-24 years,1,27616,3.62,21695
+Malta,2010,male,15-24 years,3,29208,10.27,22132
+Malta,2010,female,15-24 years,0,27407,0,22132
+Malta,2011,male,15-24 years,3,28714,10.45,23984
+Malta,2011,female,15-24 years,0,27130,0,23984
+Malta,2012,male,15-24 years,1,28647,3.49,23074
+Malta,2012,female,15-24 years,0,26975,0,23074
+Malta,2013,male,15-24 years,2,28655,6.98,25191
+Malta,2013,female,15-24 years,0,26698,0,25191
+Malta,2014,male,15-24 years,2,28298,7.07,27634
+Malta,2014,female,15-24 years,1,26151,3.82,27634
+Malta,2015,male,15-24 years,2,27768,7.2,25750
+Malta,2015,female,15-24 years,1,25588,3.91,25750
+Netherlands,2000,male,15-24 years,90,960741,9.37,27644
+Netherlands,2000,female,15-24 years,18,927539,1.94,27644
+Netherlands,2001,male,15-24 years,71,968251,7.33,28366
+Netherlands,2001,female,15-24 years,32,934725,3.42,28366
+Netherlands,2002,male,15-24 years,80,978378,8.18,30757
+Netherlands,2002,female,15-24 years,26,943864,2.75,30757
+Netherlands,2003,male,15-24 years,68,985449,6.9,37614
+Netherlands,2003,female,15-24 years,29,950780,3.05,37614
+Netherlands,2004,male,15-24 years,72,988827,7.28,42614
+Netherlands,2004,female,15-24 years,25,955899,2.62,42614
+Netherlands,2005,male,15-24 years,78,992090,7.86,44289
+Netherlands,2005,female,15-24 years,33,960181,3.44,44289
+Netherlands,2006,male,15-24 years,91,996333,9.13,47281
+Netherlands,2006,female,15-24 years,34,963837,3.53,47281
+Netherlands,2007,male,15-24 years,72,1003453,7.18,54418
+Netherlands,2007,female,15-24 years,22,970052,2.27,54418
+Netherlands,2008,male,15-24 years,67,1014326,6.61,60375
+Netherlands,2008,female,15-24 years,31,980609,3.16,60375
+Netherlands,2009,male,15-24 years,77,1025904,7.51,54988
+Netherlands,2009,female,15-24 years,24,991956,2.42,54988
+Netherlands,2010,male,15-24 years,97,1034368,9.38,53302
+Netherlands,2010,female,15-24 years,26,1000536,2.6,53302
+Netherlands,2011,male,15-24 years,85,1039605,8.18,56667
+Netherlands,2011,female,15-24 years,38,1004949,3.78,56667
+Netherlands,2012,male,15-24 years,97,1041845,9.31,52334
+Netherlands,2012,female,15-24 years,33,1006742,3.28,52334
+Netherlands,2013,male,15-24 years,93,1044562,8.9,54510
+Netherlands,2013,female,15-24 years,46,1009345,4.56,54510
+Netherlands,2014,male,15-24 years,81,1044562,7.75,55325
+Netherlands,2014,female,15-24 years,48,1009345,4.76,55325
+Netherlands,2015,male,15-24 years,89,1058675,8.41,47206
+Netherlands,2015,female,15-24 years,34,1018674,3.34,47206
+Netherlands,2016,male,15-24 years,77,1067719,7.21,48108
+Netherlands,2016,female,15-24 years,35,1025443,3.41,48108
+New Zealand,2000,male,15-24 years,81,266610,30.38,14725
+New Zealand,2000,female,15-24 years,15,261330,5.74,14725
+New Zealand,2001,male,15-24 years,87,269420,32.29,14968
+New Zealand,2001,female,15-24 years,23,263730,8.72,14968
+New Zealand,2002,male,15-24 years,66,280450,23.53,18208
+New Zealand,2002,female,15-24 years,30,271530,11.05,18208
+New Zealand,2003,male,15-24 years,66,292920,22.53,23663
+New Zealand,2003,female,15-24 years,31,281350,11.02,23663
+New Zealand,2004,male,15-24 years,83,296450,28,27325
+New Zealand,2004,female,15-24 years,30,289050,10.38,27325
+New Zealand,2005,male,15-24 years,84,300360,27.97,29803
+New Zealand,2005,female,15-24 years,24,294110,8.16,29803
+New Zealand,2006,male,15-24 years,95,305250,31.12,28628
+New Zealand,2006,female,15-24 years,24,299490,8.01,28628
+New Zealand,2007,male,15-24 years,70,309990,22.58,34892
+New Zealand,2007,female,15-24 years,23,302660,7.6,34892
+New Zealand,2008,male,15-24 years,83,314500,26.39,33585
+New Zealand,2008,female,15-24 years,38,304640,12.47,33585
+New Zealand,2009,male,15-24 years,94,320230,29.35,30259
+New Zealand,2009,female,15-24 years,21,307230,6.84,30259
+New Zealand,2010,male,15-24 years,77,326870,23.56,36145
+New Zealand,2010,female,15-24 years,35,310690,11.27,36145
+New Zealand,2011,male,15-24 years,96,330920,29.01,41184
+New Zealand,2011,female,15-24 years,33,311490,10.59,41184
+New Zealand,2012,male,15-24 years,107,331070,32.32,42756
+New Zealand,2012,female,15-24 years,41,310390,13.21,42756
+New Zealand,2013,male,15-24 years,75,319330,23.49,46198
+New Zealand,2013,female,15-24 years,37,308050,12.01,46198
+Norway,2000,male,15-24 years,70,276727,25.3,41099
+Norway,2000,female,15-24 years,14,265784,5.27,41099
+Norway,2001,male,15-24 years,61,276255,22.08,41281
+Norway,2001,female,15-24 years,20,264797,7.55,41281
+Norway,2002,male,15-24 years,49,277736,17.64,46049
+Norway,2002,female,15-24 years,15,266365,5.63,46049
+Norway,2003,male,15-24 years,58,280898,20.65,53533
+Norway,2003,female,15-24 years,17,269608,6.31,53533
+Norway,2004,male,15-24 years,58,285070,20.35,61450
+Norway,2004,female,15-24 years,20,273419,7.31,61450
+Norway,2005,male,15-24 years,50,290219,17.23,71215
+Norway,2005,female,15-24 years,20,278355,7.19,71215
+Norway,2006,male,15-24 years,68,296501,22.93,79007
+Norway,2006,female,15-24 years,18,283975,6.34,79007
+Norway,2007,male,15-24 years,45,303717,14.82,90797
+Norway,2007,female,15-24 years,14,289740,4.83,90797
+Norway,2008,male,15-24 years,48,310905,15.44,103431
+Norway,2008,female,15-24 years,21,296143,7.09,103431
+Norway,2009,male,15-24 years,51,317853,16.05,85394
+Norway,2009,female,15-24 years,18,302896,5.94,85394
+Norway,2010,male,15-24 years,59,325364,18.13,93638
+Norway,2010,female,15-24 years,13,309730,4.2,93638
+Norway,2011,male,15-24 years,58,332779,17.43,107430
+Norway,2011,female,15-24 years,20,316334,6.32,107430
+Norway,2012,male,15-24 years,45,338854,13.28,108408
+Norway,2012,female,15-24 years,21,321497,6.53,108408
+Norway,2013,male,15-24 years,44,342484,12.85,109804
+Norway,2013,female,15-24 years,20,324191,6.17,109804
+Norway,2014,male,15-24 years,38,344245,11.04,103443
+Norway,2014,female,15-24 years,17,325164,5.23,103443
+Norway,2015,male,15-24 years,43,345115,12.46,79187
+Norway,2015,female,15-24 years,17,325007,5.23,79187
+Philippines,2000,male,15-24 years,316,7859202,4.02,1205
+Philippines,2000,female,15-24 years,120,7579338,1.58,1205
+Philippines,2001,male,15-24 years,310,8018698,3.87,1109
+Philippines,2001,female,15-24 years,104,7738503,1.34,1109
+Philippines,2002,male,15-24 years,346,8184036,4.23,1158
+Philippines,2002,female,15-24 years,114,7903007,1.44,1158
+Philippines,2003,male,15-24 years,328,8353621,3.93,1169
+Philippines,2003,female,15-24 years,166,8067958,2.06,1169
+Philippines,2006,male,15-24 years,400,8792762,4.55,1599
+Philippines,2006,female,15-24 years,146,8479381,1.72,1599
+Philippines,2007,male,15-24 years,430,8891042,4.84,1915
+Philippines,2007,female,15-24 years,158,8579154,1.84,1915
+Philippines,2008,male,15-24 years,441,9009351,4.89,2188
+Philippines,2008,female,15-24 years,171,8697827,1.97,2188
+Philippines,2009,male,15-24 years,475,9146246,5.19,2073
+Philippines,2009,female,15-24 years,232,8838722,2.62,2073
+Philippines,2010,male,15-24 years,503,9293357,5.41,2412
+Philippines,2010,female,15-24 years,218,8994318,2.42,2412
+Philippines,2011,male,15-24 years,541,9485777,5.7,2662
+Philippines,2011,female,15-24 years,221,9155053,2.41,2662
+Poland,2000,male,15-24 years,649,3281737,19.78,4744
+Poland,2000,female,15-24 years,96,3161840,3.04,4744
+Poland,2001,male,15-24 years,644,3294844,19.55,5249
+Poland,2001,female,15-24 years,76,3172760,2.4,5249
+Poland,2002,male,15-24 years,646,3281123,19.69,5466
+Poland,2002,female,15-24 years,84,3157831,2.66,5466
+Poland,2003,male,15-24 years,638,3262192,19.56,5983
+Poland,2003,female,15-24 years,76,3138681,2.42,5983
+Poland,2004,male,15-24 years,666,3226847,20.64,7014
+Poland,2004,female,15-24 years,84,3103522,2.71,7014
+Poland,2005,male,15-24 years,630,3179905,19.81,8417
+Poland,2005,female,15-24 years,71,3056685,2.32,8417
+Poland,2006,male,15-24 years,593,3125615,18.97,9485
+Poland,2006,female,15-24 years,78,3003407,2.6,9485
+Poland,2007,male,15-24 years,580,3053708,18.99,11816
+Poland,2007,female,15-24 years,73,2937109,2.49,11816
+Poland,2008,male,15-24 years,579,2956692,19.58,14721
+Poland,2008,female,15-24 years,86,2845069,3.02,14721
+Poland,2009,male,15-24 years,608,2851473,21.32,12141
+Poland,2009,female,15-24 years,75,2740576,2.74,12141
+Poland,2010,male,15-24 years,547,2706883,20.21,13304
+Poland,2010,female,15-24 years,49,2596537,1.89,13304
+Poland,2011,male,15-24 years,515,2616051,19.69,14686
+Poland,2011,female,15-24 years,58,2507255,2.31,14686
+Poland,2012,male,15-24 years,509,2533873,20.09,13894
+Poland,2012,female,15-24 years,59,2427848,2.43,13894
+Poland,2013,male,15-24 years,497,2443545,20.34,14552
+Poland,2013,female,15-24 years,63,2339251,2.69,14552
+Poland,2014,male,15-24 years,527,2357793,22.35,15119
+Poland,2014,female,15-24 years,71,2256197,3.15,15119
+Poland,2015,male,15-24 years,440,2274111,19.35,13228
+Poland,2015,female,15-24 years,61,2176442,2.8,13228
+Sri Lanka,2000,male,15-24 years,615,1815183,33.88,953
+Sri Lanka,2000,female,15-24 years,504,1776940,28.36,953
+Sri Lanka,2001,male,15-24 years,508,1811743,28.04,912
+Sri Lanka,2001,female,15-24 years,394,1778830,22.15,912
+Sri Lanka,2002,male,15-24 years,520,1799884,28.89,951
+Sri Lanka,2002,female,15-24 years,335,1772766,18.9,951
+Sri Lanka,2003,male,15-24 years,509,1781707,28.57,1077
+Sri Lanka,2003,female,15-24 years,358,1760232,20.34,1077
+Sri Lanka,2006,male,15-24 years,423,1697398,24.92,1580
+Sri Lanka,2006,female,15-24 years,333,1699144,19.6,1580
+Thailand,2000,male,15-24 years,961,5473800,17.56,2169
+Thailand,2000,female,15-24 years,248,5314448,4.67,2169
+Thailand,2002,male,15-24 years,743,5384313,13.8,2305
+Thailand,2002,female,15-24 years,199,5194271,3.83,2305
+Thailand,2003,male,15-24 years,579,5371988,10.78,2531
+Thailand,2003,female,15-24 years,177,5249392,3.37,2531
+Thailand,2004,male,15-24 years,486,5311644,9.15,2849
+Thailand,2004,female,15-24 years,162,5201780,3.11,2849
+Thailand,2005,male,15-24 years,458,5246514,8.73,3094
+Thailand,2005,female,15-24 years,117,5146603,2.27,3094
+Thailand,2006,male,15-24 years,378,5162684,7.32,3598
+Thailand,2006,female,15-24 years,91,5071455,1.79,3598
+Thailand,2007,male,15-24 years,406,4948804,8.2,4461
+Thailand,2007,female,15-24 years,89,4762664,1.87,4461
+Thailand,2008,male,15-24 years,374,4934951,7.58,4921
+Thailand,2008,female,15-24 years,97,4741877,2.05,4921
+Thailand,2009,male,15-24 years,369,4914657,7.51,4736
+Thailand,2009,female,15-24 years,100,4716781,2.12,4736
+Thailand,2010,male,15-24 years,387,4905031,7.89,5707
+Thailand,2010,female,15-24 years,120,4702548,2.55,5707
+Thailand,2011,male,15-24 years,357,4929387,7.24,6153
+Thailand,2011,female,15-24 years,95,4723611,2.01,6153
+Thailand,2012,male,15-24 years,369,4938617,7.47,6584
+Thailand,2012,female,15-24 years,84,4728702,1.78,6584
+Thailand,2013,male,15-24 years,331,4956860,6.68,6917
+Thailand,2013,female,15-24 years,88,4741021,1.86,6917
+Thailand,2014,male,15-24 years,337,4935213,6.83,6662
+Thailand,2014,female,15-24 years,49,4717317,1.04,6662
+Thailand,2015,male,15-24 years,317,4847684,6.54,6552
+Thailand,2015,female,15-24 years,55,4632371,1.19,6552
+Thailand,2016,male,15-24 years,322,4736305,6.8,6713
+Thailand,2016,female,15-24 years,60,4525574,1.33,6713
+United Arab Emirates,2005,female,15-24 years,7,281194,2.49,42196
+United Arab Emirates,2005,male,15-24 years,7,454397,1.54,42196
+United Arab Emirates,2006,male,15-24 years,7,595516,1.18,45110
+United Arab Emirates,2006,female,15-24 years,1,317537,0.31,45110
+United Arab Emirates,2007,male,15-24 years,18,710296,2.53,45285
+United Arab Emirates,2007,female,15-24 years,4,350408,1.14,45285
+United Arab Emirates,2008,male,15-24 years,18,776831,2.32,48457
+United Arab Emirates,2008,female,15-24 years,4,374233,1.07,48457
+United Arab Emirates,2009,male,15-24 years,15,780955,1.92,34960
+United Arab Emirates,2009,female,15-24 years,7,385569,1.82,34960
+United Arab Emirates,2010,female,15-24 years,6,385198,1.56,36964
+United Arab Emirates,2010,male,15-24 years,10,730245,1.37,36964
+United Kingdom,2000,male,15-24 years,390,3709456,10.51,29358
+United Kingdom,2000,female,15-24 years,101,3523496,2.87,29358
+United Kingdom,2001,male,15-24 years,361,3650328,9.89,29179
+United Kingdom,2001,female,15-24 years,72,3581981,2.01,29179
+United Kingdom,2002,male,15-24 years,323,3758190,8.59,31630
+United Kingdom,2002,female,15-24 years,90,3642294,2.47,31630
+United Kingdom,2003,male,15-24 years,316,3854815,8.2,36289
+United Kingdom,2003,female,15-24 years,91,3718206,2.45,36289
+United Kingdom,2004,male,15-24 years,315,3953382,7.97,42486
+United Kingdom,2004,female,15-24 years,88,3785230,2.32,42486
+United Kingdom,2005,male,15-24 years,296,4029567,7.35,44372
+United Kingdom,2005,female,15-24 years,88,3856149,2.28,44372
+United Kingdom,2006,male,15-24 years,308,4108191,7.5,47163
+United Kingdom,2006,female,15-24 years,74,3911869,1.89,47163
+United Kingdom,2007,male,15-24 years,309,4193170,7.37,53576
+United Kingdom,2007,female,15-24 years,70,3963103,1.77,53576
+United Kingdom,2008,male,15-24 years,323,4214828,7.66,50111
+United Kingdom,2008,female,15-24 years,81,4000750,2.02,50111
+United Kingdom,2009,male,15-24 years,332,4210903,7.88,41074
+United Kingdom,2009,female,15-24 years,84,4009556,2.09,41074
+United Kingdom,2010,male,15-24 years,344,4225926,8.14,41798
+United Kingdom,2010,female,15-24 years,106,3995780,2.65,41798
+United Kingdom,2011,male,15-24 years,346,4236989,8.17,44491
+United Kingdom,2011,female,15-24 years,100,4001855,2.5,44491
+United Kingdom,2012,male,15-24 years,364,4204765,8.66,44585
+United Kingdom,2012,female,15-24 years,70,4054017,1.73,44585
+United Kingdom,2013,male,15-24 years,331,4180873,7.92,45594
+United Kingdom,2013,female,15-24 years,81,4017291,2.02,45594
+United Kingdom,2014,male,15-24 years,332,4171187,7.96,49906
+United Kingdom,2014,female,15-24 years,103,3992566,2.58,49906
+United Kingdom,2015,male,15-24 years,374,4151992,9.01,47240
+United Kingdom,2015,female,15-24 years,104,3966564,2.62,47240
+United States,2000,male,15-24 years,3424,20078818,17.05,39218
+United States,2000,female,15-24 years,570,19105073,2.98,39218
+United States,2001,male,15-24 years,3409,20485156,16.64,40018
+United States,2001,female,15-24 years,562,19463211,2.89,40018
+United States,2002,male,15-24 years,3432,20821269,16.48,40845
+United States,2002,female,15-24 years,578,19768514,2.92,40845
+United States,2003,male,15-24 years,3381,21182602,15.96,42468
+United States,2003,female,15-24 years,607,20023561,3.03,42468
+United States,2004,male,15-24 years,3596,21438383,16.77,44867
+United States,2004,female,15-24 years,720,20262722,3.55,44867
+United States,2005,male,15-24 years,3498,21647159,16.16,47423
+United States,2005,female,15-24 years,714,20429690,3.49,47423
+United States,2006,male,15-24 years,3528,21844954,16.15,49666
+United States,2006,female,15-24 years,661,20590472,3.21,49666
+United States,2007,male,15-24 years,3481,22014323,15.81,51585
+United States,2007,female,15-24 years,659,20765167,3.17,51585
+United States,2008,male,15-24 years,3560,22184611,16.05,52128
+United States,2008,female,15-24 years,738,21149435,3.49,52128
+United States,2009,male,15-24 years,3595,22343137,16.09,50563
+United States,2009,female,15-24 years,776,21299140,3.64,50563
+United States,2010,male,15-24 years,3772,22463069,16.79,51989
+United States,2010,female,15-24 years,830,21395712,3.88,51989
+United States,2011,male,15-24 years,3959,22622559,17.5,53452
+United States,2011,female,15-24 years,863,21552069,4,53452
+United States,2012,male,15-24 years,3918,22713083,17.25,55170
+United States,2012,female,15-24 years,954,21653970,4.41,55170
+United States,2013,male,15-24 years,3903,22735631,17.17,56520
+United States,2013,female,15-24 years,975,21698877,4.49,56520
+United States,2014,male,15-24 years,4089,22700273,18.01,58531
+United States,2014,female,15-24 years,990,21691057,4.56,58531
+United States,2015,male,15-24 years,4359,22615073,19.27,60387
+United States,2015,female,15-24 years,1132,21633813,5.23,60387
