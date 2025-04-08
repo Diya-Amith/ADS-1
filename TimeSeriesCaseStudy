@@ -1,0 +1,165 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNOoCFC+o9LANW79UiqPYb3",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Diya-Amith/ADS-1/blob/main/TimeSeriesCaseStudy\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "id": "pP9urR_ar6aD"
+      },
+      "outputs": [],
+      "source": [
+        "!pip install pandas numpy matplotlib seaborn statsmodels --quiet\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns\n",
+        "from statsmodels.tsa.stattools import adfuller\n",
+        "from statsmodels.graphics.tsaplots import plot_acf, plot_pacf"
+      ],
+      "metadata": {
+        "id": "z15oeoKHtSC6"
+      },
+      "execution_count": 1,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from google.colab import drive\n",
+        "drive.mount('/content/drive')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "qd4IJ_2RtVmY",
+        "outputId": "e2aaa4d3-92f9-4969-980d-54a2e7e2bf3f"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount(\"/content/drive\", force_remount=True).\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "jj_path = '/content/drive/My Drive/TimeSeries_Assignment/jj.csv'\n",
+        "amzn_path = '/content/drive/My Drive/TimeSeries_Assignment/AMZN.csv'"
+      ],
+      "metadata": {
+        "id": "dgvNNW2JtcEA"
+      },
+      "execution_count": 3,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **LOAD DATASETS**"
+      ],
+      "metadata": {
+        "id": "TcKRxiyHvVGR"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#  Load datasets\n",
+        "def load_data(path, date_col):\n",
+        "    df = pd.read_csv(path)\n",
+        "    df.set_index(date_col, inplace=True)\n",
+        "    return df\n",
+        "jj_data = load_data(jj_path, 'date')\n",
+        "amzn_data = load_data(amzn_path, 'Date')"
+      ],
+      "metadata": {
+        "id": "umuDFOLDtiVy"
+      },
+      "execution_count": 4,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Johnsons and johnsons data\",jj_data.head())\n",
+        "print(\"Amazon Data\",amzn_data.head())"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "q_-cwE9AtoPQ",
+        "outputId": "63681719-d323-46f7-f106-1ff1f0753c78"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Johnsons and johnsons data             data\n",
+            "date            \n",
+            "1960-01-01  0.71\n",
+            "1960-04-01  0.63\n",
+            "1960-07-02  0.85\n",
+            "1960-10-01  0.44\n",
+            "1961-01-01  0.61\n",
+            "Amazon Data                  Open       High        Low      Close  Adj Close     Volume\n",
+            "Date                                                                        \n",
+            "2018-02-20  72.324501  74.438499  72.324501  73.417503  73.417503  129984000\n",
+            "2018-02-21  74.250000  75.174500  73.945999  74.146004  74.146004  126088000\n",
+            "2018-02-22  74.767998  75.126999  73.788002  74.266998  74.266998   97162000\n",
+            "2018-02-23  74.766998  75.000000  74.324997  75.000000  75.000000   88362000\n",
+            "2018-02-26  75.459999  76.141998  75.349998  76.097504  76.097504   99100000\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "NPOFUjsHu2K1"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
